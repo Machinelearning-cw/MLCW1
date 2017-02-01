@@ -1,4 +1,8 @@
 function DECISION_TREE_LEARNING(examples,attributes,binary_target)
+
+
+
+
 % function DECISION-TREE-LEARNING(examples,attributes,binary_target) returns a decision tree for a given target label
     
     % if all examples have the same value of binary_target
