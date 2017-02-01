@@ -1,3 +1,3 @@
-function MAJORITY_VALUE(binary_targets)
+function majority = MAJORITY_VALUE(binary_targets)
 
-    % return the mode of the binary_targets
+majority=mode(binary_targets);
